@@ -1,3 +1,3 @@
 # First
 
-<img src="first-picture.png" width="400"/>
+<img src="first-picture.png" width="600"/>
