@@ -8,12 +8,10 @@ import { Component } from '@angular/core';
 
 export class AppComponent {
 
-  title = 'svg-angular-first';
-  elementOne: number = 0;
-  elementTwo: number = 13;
-  elementThree: number = 1;
-  elementFour: number = 4;
-  elementFive: number = 3;
+  atm1: number = 1.2
+  atm2: number = 3.4
+
+  elements: number[] = [0, 13, 1, 4, 13];
  
   check( element:number ) {
     if(element==0) return true
